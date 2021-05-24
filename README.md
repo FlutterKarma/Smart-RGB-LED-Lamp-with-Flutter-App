@@ -1,9 +1,12 @@
-# lampcontroler
+# Smart-RGB-LED-Lamp-with-Flutter-App
+
 
 
 
 <img src="/screenshot/circuitdigram.png" Height="500">
 <img src="/screenshot/lampui.jpg" Height="400">
+
+Watch full video on youtube : https://youtu.be/ZaNnzSa9pVw
 A new Flutter project.
 
 ## Getting Started
