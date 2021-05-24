@@ -1,5 +1,9 @@
 # lampcontroler
 
+
+
+<img src="/screenshot/circuitdigram.png" Height="500">
+<img src="/screenshot/lampui.jpg" Height="400">
 A new Flutter project.
 
 ## Getting Started
